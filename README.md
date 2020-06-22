@@ -50,10 +50,11 @@ spark token
 
 ## # 9: Creating Spark Project
 Once you have installed the Spark installer and registered your API token, you may create new Spark projects using the new command:
+This command will create a new Laravel project in a directory matching the given project-name. Spark will then be automatically installed into the project and configured.
 ```bash
 spark new project-name
 ```
-This command will create a new Laravel project in a directory matching the given project-name. Spark will then be automatically installed into the project and configured.
+
 
 ## # 10: Migrate New Project Database
  Once the new Spark project has been created, you will need to migrate your new project's database using the php artisan migrate Artisan command. 
