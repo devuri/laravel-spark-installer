@@ -37,7 +37,7 @@ Now that you have the Spark installer, you need to register your Spark API token
 spark register token-value
 ```
 
-## # 5 Check Token
+## # 7 Check Token
 If you would like to view the currently registered token, you may use the token command:
 ```bash
 spark token
