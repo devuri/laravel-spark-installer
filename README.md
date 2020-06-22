@@ -7,7 +7,7 @@ install laravel spark
 composer global require laravel/installer
 ```
 
-## Step 2: Add Laravel Installer globally
+## # 2: Add Laravel Installer globally
 ```bash
 export PATH="~/.config/composer/vendor/bin:$PATH"
 ```
